@@ -1,0 +1,32 @@
+#include<iostream>
+#include<cmath>
+#include<string>
+#include<climits>
+#include<float.h>
+
+
+std :: cout use this everywhere or just standardize it at the be begining as
+using std::cout
+same for std::cin
+using std::cin
+this thing can be done at global level or at local level
+even for strings u need to standardize as
+std :: string string_name;  --- syntax
+if we want to use endl thn also we need to write it as std::endl
+
+
+
+npos == -1 used for testing string or may be anything else too
+
+// function or methods studied
+    // string.length()
+    // string.size()
+    // string.append()
+    // string.insert()
+    // string.erase()
+    // string.pop_back()
+    // string.replace()
+    // string.find()
+    // string.substr()
+    // string.find_first_of()
+    // string.compare();
