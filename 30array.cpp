@@ -22,9 +22,9 @@ int main()
     // int size = sizeof(a) / sizeof(a[0]);  same as above
     // to calculate size we hve to do size of array divided by size of one element
     cout << "Size of array : " << size << "\n";
+    cout << "Elements of the array\n";
     for (int i = 0; i < size; i++)
     {
-        cout << "Elements of the array\n";
         cout << a[i] << "\t";
     }
 
