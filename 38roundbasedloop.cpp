@@ -12,10 +12,10 @@ int main()
         cout << data[i] << "\t";
     }
     cout << "\n";
+    // round based for loop
     for (int n : data)
     {
         cout << n << "\t";
     }
-
     return 0;
 }
