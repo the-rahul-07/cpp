@@ -1,3 +1,7 @@
+-C++ Template: The Complete Guide — David Vandevoorde, 
+Nicolai Josuttis, Doug Gregor
+-The C++ Standard Library: A Tutorial and Reference — Nicolai Josuttis
+-Modern C++ Design — Andrei Alexandrescu
 #include<iostream>
 #include<cmath>
 #include<string>
